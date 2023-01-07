@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdamBmm
-- 👀 I’m interested in programming, but I'm totally newbie
-- 🌱 I’m currently learning html, css and js
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning html, css, js, vue.js, quasar
 
 <!---
 AdamBmm/AdamBmm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
